@@ -16,7 +16,7 @@ This is FitCompass, your app for finding the equipments of your gym! FitCompass 
   
 ## Getting Started
 
-### Prerequisites
+### Pre-requisites
 
 - Ensure you have Node.js and npm installed.
 - Install Expo CLI globally: `npm install -g expo-cli`
@@ -26,10 +26,9 @@ This is FitCompass, your app for finding the equipments of your gym! FitCompass 
 #### Mobile
 
 1. Clone the repository: `git clone https://github.com/Jaozeraa/FitCompass`
-2. Navigate to the project directory: `cd iVeggie-Mobile`
+2. Navigate to the project directory: `cd FitCompass`
 3. Install dependencies: `yarn`
-4. Setup your environment configs: `src/configs/*`
-5. Run: `yarn start`
+4. Run: `yarn start`
 
 
 https://github.com/Jaozeraa/FitCompass/assets/53716129/9003cb6c-a3e6-4505-b151-a3a5d5f5e46c
