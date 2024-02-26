@@ -1,0 +1,29 @@
+{
+  "global": {
+    "meters": "m",
+    "kilometers": "km"
+  },
+  "screens": {
+    "home": {
+      "title": "Nossos aparelhos",
+      "description": "Encontre seu equipamento com facilidade \ne faça seu treino render mais!",
+      "search": "Pesquise por equipamentos"
+    },
+    "equipmentTracker": {
+      "headerTitle": "Rastrear equipamento",
+      "description": "A seta indica a direção do equipamento"
+    }
+  },
+  "components": {
+    "header": {
+      "gym": "SmartFit - Jundiaí"
+    },
+    "equipmentCard": {
+      "status": {
+        "available": "Disponível",
+        "unavailable": "Indisponível",
+        "maintenance": "Em manutenção"
+      }
+    }
+  }
+}
